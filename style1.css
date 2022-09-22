@@ -227,3 +227,11 @@ background: radial-gradient(#ffd6d6,rgb(165, 178, 193));
 .table th {
     text-align: center;
 }
+
+.btn1 {
+    background: rgb(222, 195, 185);
+    color: rgb(67, 36, 36);
+    padding: 10px 30px;
+    margin: 10px 20px;
+    border-radius: 10px;
+}
