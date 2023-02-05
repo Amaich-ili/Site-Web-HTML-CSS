@@ -1,4 +1,4 @@
-# Laboratoire1_web
+# Site Web Static avec HTML CSS
  
 L’idée est de créer un site web static qui vente des produits d’artisanat avec HTML et CSS.
 Ce site contient :
